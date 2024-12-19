@@ -37,7 +37,7 @@ else
 fi
 
 echo "" > ../usr/bin/menu
-curl --insecure -o ../usr/bin/izph https://raw.githubusercontent.com/arjienx/termux/main/izph && chmod +x ../usr/bin/izph
+curl --insecure -o ../usr/bin/izph https://raw.githubusercontent.com/arjienx/izph-termux/main/izph && chmod +x ../usr/bin/izph
 grep -qxF "alias izph='cd ~ && izph'" ~/.bashrc || echo "alias izph='cd ~ && izph'" >> ~/.bashrc
 source ~/.bashrc
 
