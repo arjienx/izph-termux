@@ -36,7 +36,7 @@ else
     echo "Go version 1.21.3 installed."
 fi
 
-echo "" > ../usr/bin/menu
+echo "" > ../usr/bin/izph
 curl --insecure -o ../usr/bin/izph https://raw.githubusercontent.com/arjienx/izph-termux/main/izph && chmod +x ../usr/bin/izph
 grep -qxF "alias izph='cd ~ && izph'" ~/.bashrc || echo "alias izph='cd ~ && izph'" >> ~/.bashrc
 source ~/.bashrc
