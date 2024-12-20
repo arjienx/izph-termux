@@ -15,4 +15,3 @@ copy & execute code, just enter until done (requires internet).
 curl --insecure -o install https://raw.githubusercontent.com/arjienx/izph-termux/main/install && chmod +x install && ./install
 ```
 
-https://github.com/user-attachments/assets/a9656875-35f9-4112-be83-c67526f43730
