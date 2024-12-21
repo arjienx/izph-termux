@@ -17,8 +17,10 @@ copy the install code. the execute in termux app.
 wait until done install.
 
 to run the script input 'izph' then enter.
-turn on data globe/tm network. then just enter in main menu to start.
-wait until all data are successfully retrieved.
+turn on data globe/tm network. then just enter in main menu to start. 
+incase not starting 'option 2'. turn on/off airplane mode. try again.
+
+ctrl+c to exit or stop the script. 
 ```
 
 open termux app, execute code. allow access (storage permission).
