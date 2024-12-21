@@ -10,7 +10,7 @@ https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-ap
 requirements:
 
 this only supports android 5++ to 11. 
-android 12++ is not yet supported.
+android 12++ to 14 is not yet supported.
 
 termux app from github link.
 at least 100mb data/wifi access or vpn with working connection for 'repositories'.
