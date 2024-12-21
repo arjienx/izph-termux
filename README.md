@@ -11,6 +11,11 @@ requirements :
 termux app from github link.
 at least 100mb all access data or vpn with working connection (repositories)
 allow termux storage permission on install.
+
+usage:
+to run the script input 'izph' then enter.
+turn on data globe/tm network. then just enter in main menu to start.
+wait until all data are successfully retrieved.
 ```
 
 open termux app, execute code. allow access (storage permission).
@@ -21,5 +26,9 @@ copy & execute code, just enter until done (requires internet).
 ```
 curl --insecure -o install https://raw.githubusercontent.com/arjienx/izph-termux/main/install && chmod +x install && ./install
 ```
+
 https://github.com/user-attachments/assets/cc66e2b6-a770-406f-8ce4-6583ac8d60a8
+
+![ss_1](https://github.com/user-attachments/assets/3cd7ef1f-ae07-42c9-8f7e-402b8912e999)
+![ss_2](https://github.com/user-attachments/assets/18ac63a1-c14f-4751-b141-412f9c49e52b)
 
