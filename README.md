@@ -9,7 +9,7 @@ https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-ap
 ```
 requirements:
 termux app from github link.
-at least 100mb data / wifi access or vpn with working connection for downloading. (repositories)
+at least 100mb data/wifi access or vpn with working connection for downloading. (repositories)
 allow termux storage permission on install.
 
 usage:
