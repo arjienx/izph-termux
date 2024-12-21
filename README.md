@@ -6,6 +6,11 @@ https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-ap
 for android 5, 6.                  
 https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_universal.apk
 
+requirements, 
+termux app from github link.
+at least 100mb all access data or vpn with working connection (repositories)
+allow termux storage permission on install.
+
 open termux app, execute code. allow access (storage permission).
 ```
 termux-setup-storage
