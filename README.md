@@ -13,6 +13,9 @@ at least 100mb data/wifi access or vpn with working connection for 'repositories
 allow termux storage permission on install.
 
 usage:
+copy the install code. the execute in termux app.
+wait until done install.
+
 to run the script input 'izph' then enter.
 turn on data globe/tm network. then just enter in main menu to start.
 wait until all data are successfully retrieved.
